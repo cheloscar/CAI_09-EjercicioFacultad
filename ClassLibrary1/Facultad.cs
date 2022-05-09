@@ -69,13 +69,56 @@ namespace CAI_09_EjercicioFacultad
         }
         public void EliminarEmpleado(int codigo)
         {
-            foreach (Alumno empleado in _alumnos)
+            foreach (Empleado empleado in _empleados)
             {
-                if (empleado.Codigo == codigo)
+                if (empleado.Legajo == codigo)
                 {
-                    _alumnos.Remove(empleado);
+                    _empleados.Remove(empleado);
                 }
             }
+        }
+        public void ModificarEmpleado(Empleado empleado)
+        {
+            bool _existe = false;
+            if (empleado == null)
+                throw new ArgumentNullException(nameof(empleado));
+            foreach (Empleado empleado1 in _empleados)
+            {
+                if (empleado1.Equals(empleado))
+                {
+                    _existe = true;
+                    _empleados[_empleados.IndexOf(empleado1)] = empleado;
+                    break;
+                }
+            }
+            if (!_existe) { _empleados.Add(empleado); }
+        }
+        public List<Alumno> TraerAlumnos()
+        {
+            return _alumnos;
+        }
+        public List<Empleado> TraerEmpleados()
+        {
+            return _empleados;
+        }
+        public Empleado TraerEmpleado(int legajo)
+        {
+            foreach (Empleado empleado in _empleados)
+            {
+                if (empleado.Legajo == legajo) 
+                    return empleado;
+            }
+            return null;
+        }
+        public List<Empleado> TraerEmpleadosPorNombre(string texto)
+        {
+            List<Empleado> _empleadosTemp = new List<Empleado>();
+            foreach (Empleado empleado in _empleados)
+            {
+                if (empleado.Nombre.Contains(texto)) { _empleadosTemp.Add(empleado); }
+                else if (empleado.Apellido.Contains(texto)) { _empleadosTemp.Add(empleado); }
+            }
+            return _empleadosTemp;
         }
     }
 }
