@@ -1,0 +1,15 @@
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\CAI_09-EjercicioFacultad.Consola\bin\Debug\net6.0\CAI_09-EjercicioFacultad.Consola.exe
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\CAI_09-EjercicioFacultad.Consola\bin\Debug\net6.0\CAI_09-EjercicioFacultad.Consola.deps.json
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\CAI_09-EjercicioFacultad.Consola\bin\Debug\net6.0\CAI_09-EjercicioFacultad.Consola.runtimeconfig.json
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\CAI_09-EjercicioFacultad.Consola\bin\Debug\net6.0\CAI_09-EjercicioFacultad.Consola.dll
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\CAI_09-EjercicioFacultad.Consola\bin\Debug\net6.0\CAI_09-EjercicioFacultad.Consola.pdb
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\CAI_09-EjercicioFacultad.Consola\obj\Debug\net6.0\CAI_09-EjercicioFacultad.Consola.csproj.AssemblyReference.cache
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\CAI_09-EjercicioFacultad.Consola\obj\Debug\net6.0\CAI_09-EjercicioFacultad.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\CAI_09-EjercicioFacultad.Consola\obj\Debug\net6.0\CAI_09-EjercicioFacultad.Consola.AssemblyInfoInputs.cache
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\CAI_09-EjercicioFacultad.Consola\obj\Debug\net6.0\CAI_09-EjercicioFacultad.Consola.AssemblyInfo.cs
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\CAI_09-EjercicioFacultad.Consola\obj\Debug\net6.0\CAI_09-EjercicioFacultad.Consola.csproj.CoreCompileInputs.cache
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\CAI_09-EjercicioFacultad.Consola\obj\Debug\net6.0\CAI_09-EjercicioFacultad.Consola.dll
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\CAI_09-EjercicioFacultad.Consola\obj\Debug\net6.0\refint\CAI_09-EjercicioFacultad.Consola.dll
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\CAI_09-EjercicioFacultad.Consola\obj\Debug\net6.0\CAI_09-EjercicioFacultad.Consola.pdb
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\CAI_09-EjercicioFacultad.Consola\obj\Debug\net6.0\CAI_09-EjercicioFacultad.Consola.genruntimeconfig.cache
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\CAI_09-EjercicioFacultad.Consola\obj\Debug\net6.0\ref\CAI_09-EjercicioFacultad.Consola.dll

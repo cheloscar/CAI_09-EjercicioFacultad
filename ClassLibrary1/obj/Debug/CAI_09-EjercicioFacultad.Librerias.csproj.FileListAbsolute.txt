@@ -1,0 +1,6 @@
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\ClassLibrary1\obj\Debug\CAI_09-EjercicioFacultad.Librerias.csproj.AssemblyReference.cache
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\ClassLibrary1\obj\Debug\CAI_09-EjercicioFacultad.Librerias.csproj.CoreCompileInputs.cache
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\ClassLibrary1\bin\Debug\CAI_09_EjercicioFacultad.Librerias.dll
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\ClassLibrary1\bin\Debug\CAI_09_EjercicioFacultad.Librerias.pdb
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\ClassLibrary1\obj\Debug\CAI_09_EjercicioFacultad.Librerias.dll
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_09-EjercicioFacultad\ClassLibrary1\obj\Debug\CAI_09_EjercicioFacultad.Librerias.pdb
